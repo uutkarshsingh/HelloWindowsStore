@@ -11,6 +11,7 @@ using Windows.UI.Xaml.Controls.Primitives;
 using Windows.UI.Xaml.Data;
 using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
+using Windows.UI.Xaml.Media.Imaging;
 using Windows.UI.Xaml.Navigation;
 
 // The Blank Page item template is documented at http://go.microsoft.com/fwlink/?LinkId=234238
@@ -33,10 +34,22 @@ namespace HelloWindowsStore
                 FontStyle=  Windows.UI.Text.FontStyle.Italic ,
                 Foreground = new SolidColorBrush(Colors.Yellow),
                 HorizontalAlignment = HorizontalAlignment.Center ,
-                VerticalAlignment = VerticalAlignment.Top
+                VerticalAlignment = VerticalAlignment.Top,
+                FontSize=50
             };
 
-            ContentGrid.Children.Add(tblk);           
+            utkarshContentGrid.Children.Add(tblk);  
+         
+            Uri uri = new Uri("http://www.charlespetzold.com/pw6/PetzoldJersey.jpg");
+            BitmapImage bitmapIMage = new Windows.UI.Xaml.Media.Imaging.BitmapImage(uri);
+
+            Image image = new Image();
+            image.Source = bitmapIMage;
+            image.VerticalAlignment = VerticalAlignment.Bottom;
+            image.HorizontalAlignment = HorizontalAlignment.Left;
+
+            utkarshContentGrid.Children.Add(image);
+
         }
 
         /// <summary>
