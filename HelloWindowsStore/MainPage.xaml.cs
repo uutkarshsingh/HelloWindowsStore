@@ -60,19 +60,18 @@ namespace HelloWindowsStore
                 
                
                 );
-            this.Content.Add
-              (
-             
+            this.Content =
+
               new Button()
               {
 
                   Content = "Rathor"
                   ,
-                  HorizontalAlignment = HorizontalAlignment.Right ,
+                  HorizontalAlignment = HorizontalAlignment.Right,
                   VerticalAlignment = VerticalAlignment.Bottom
-                  
+
               }
-              );
+              ;
         }
 
         /// <summary>
