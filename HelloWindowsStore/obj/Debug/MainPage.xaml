@@ -6,31 +6,24 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
-    
-                       FontFamily="Times New Roman"
-                   FontSize="96"
-                  FontStyle="Italic"
-                   Foreground="#80FF8000"
-
     >
-
-    <Grid 
-          Background="#80000080"
-          >
-                
-
-        <TextBlock Text="&quot; Left side &quot;"
-                   HorizontalAlignment="Left"
+    <Grid Background="#80000080">
+        <TextBlock Text="8"
+                   HorizontalAlignment="Center"
                    VerticalAlignment="Center"
-                   />
-
-
-        <TextBlock Text="Left side"
-                   HorizontalAlignment="Right"
+                   FontFamily="Times New Roman"
+                   FontSize="864"
+                    FontWeight="Bold"                   
+                   Foreground="#80FF8000"/>
+        <TextBlock Text="Windows"
+                   HorizontalAlignment="Center"
                    VerticalAlignment="Center"
-                   Foreground="Red"
+                   FontFamily="Times New Roman"
+                   FontSize="192"
+                   FontStyle="Normal"
+                   Foreground="Blue"          
                    />
-
+        <MediaElement Source="http://www.charlespetzold.com/pw6/AudioGreeting.wma"/>
     </Grid>
 </Page>
 

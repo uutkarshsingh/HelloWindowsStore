@@ -8,8 +8,6 @@
     mc:Ignorable="d"
     >
     <Grid Background="#80000080">
-                
-
         <TextBlock Text="8"
                    HorizontalAlignment="Center"
                    VerticalAlignment="Center"
@@ -25,6 +23,6 @@
                    FontStyle="Normal"
                    Foreground="Blue"          
                    />
-
+        <MediaElement Source="http://www.charlespetzold.com/pw6/AudioGreeting.wma"/>
     </Grid>
 </Page>
