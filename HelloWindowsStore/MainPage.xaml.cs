@@ -51,27 +51,18 @@ namespace HelloWindowsStore
             Grid newGrid = this.Content as Grid;
           //  newGrid.Children.Add(image);
 
-            newGrid.Children.Add
-                (
-                new Button()
-                {
+            newGrid.Children.Add(
+                new Button(){
                     Content = "Utkarsh"
-                }
-                
-               
+                }              
                 );
+
             this.Content =
-
-              new Button()
-              {
-
-                  Content = "Rathor"
-                  ,
+              new Button(){
+                  Content = "Rathor"                  ,
                   HorizontalAlignment = HorizontalAlignment.Right,
                   VerticalAlignment = VerticalAlignment.Bottom
-
-              }
-              ;
+              };
         }
 
         /// <summary>
