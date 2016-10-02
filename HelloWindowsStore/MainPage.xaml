@@ -17,13 +17,9 @@
     <Grid 
           Background="#80000080"
           >
-        <TextBlock Text="HEllo Windows 8 here"
-                   HorizontalAlignment="Center"
-                   VerticalAlignment="Center"
-                   />
                 
 
-        <TextBlock Text="Left side"
+        <TextBlock Text="&quot; Left side &quot;"
                    HorizontalAlignment="Left"
                    VerticalAlignment="Center"
                    />
