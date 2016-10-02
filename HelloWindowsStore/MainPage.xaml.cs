@@ -4,6 +4,7 @@ using System.IO;
 using System.Linq;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
+using Windows.UI;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Controls.Primitives;
@@ -24,6 +25,18 @@ namespace HelloWindowsStore
         public MainPage()
         {
             this.InitializeComponent();
+
+            TextBlock tblk = new TextBlock
+            {
+                Text = "Utkarsh Rathor",
+                FontFamily = new FontFamily("Times New Roman"),
+                FontStyle=  Windows.UI.Text.FontStyle.Italic ,
+                Foreground = new SolidColorBrush(Colors.Yellow),
+                HorizontalAlignment = HorizontalAlignment.Center ,
+                VerticalAlignment = VerticalAlignment.Top
+            };
+
+            ContentGrid.Children.Add(tblk);           
         }
 
         /// <summary>
