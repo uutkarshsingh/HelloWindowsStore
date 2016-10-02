@@ -48,8 +48,8 @@ namespace HelloWindowsStore
             image.VerticalAlignment = VerticalAlignment.Bottom;
             image.HorizontalAlignment = HorizontalAlignment.Left;
 
-            utkarshContentGrid.Children.Add(image);
-
+            Grid newGrid = this.Content as Grid;
+            newGrid.Children.Add(image);
         }
 
         /// <summary>
