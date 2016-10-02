@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>UTKARSH</Machine>
+    <WindowsUser>uutkarshsingh</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>3AD6B765818B04D49DB9A79F7045D4DC2F0A853961030D62065F83A98B48F83C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>570c6b94-652b-44b0-ac3f-088c3f72d5dd_1.0.0.0_neutral__r7raznjkv09h4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>570c6b94-652b-44b0-ac3f-088c3f72d5dd_r7raznjkv09h4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>570c6b94-652b-44b0-ac3f-088c3f72d5dd</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=uutkarshsingh</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\HelloWindowsStore\HelloWindowsStore\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-10-02T06:39:19.249</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\HelloWindowsStore\HelloWindowsStore\bin\Debug\HelloWindowsStore.exe">
+      <PackagePath>HelloWindowsStore.exe</PackagePath>
+      <Modified>2016-10-02T06:39:19.097</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\HelloWindowsStore\HelloWindowsStore\bin\Debug\HelloWindowsStore.pdb">
+      <PackagePath>HelloWindowsStore.pdb</PackagePath>
+      <Modified>2016-10-02T06:39:19.035</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\HelloWindowsStore\HelloWindowsStore\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\HelloWindowsStore\HelloWindowsStore\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\HelloWindowsStore\HelloWindowsStore\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\HelloWindowsStore\HelloWindowsStore\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\HelloWindowsStore\HelloWindowsStore\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2016-10-02T05:57:08.539</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\HelloWindowsStore\HelloWindowsStore\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T23:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\HelloWindowsStore\HelloWindowsStore\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2016-10-02T06:39:01.232</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\HelloWindowsStore\HelloWindowsStore\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-10-02T06:30:18.257</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
