@@ -35,6 +35,9 @@
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\HelloWindowsStore\HelloWindowsStore\Images\Greetings.png">
+      <PackagePath>Images\Greetings.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\HelloWindowsStore\HelloWindowsStore\bin\Debug\App.xaml">
       <PackagePath>App.xaml</PackagePath>
     </AppxPackagedFile>

@@ -21,3 +21,7 @@ C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\HelloWindowsStore\HelloWindows
 C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\HelloWindowsStore\HelloWindowsStore\obj\Debug\pri.resfiles
 C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\HelloWindowsStore\HelloWindowsStore\obj\Debug\LanguageQualifiers.txt
 C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\HelloWindowsStore\HelloWindowsStore\obj\Debug\ProjectArchitectures.txt
+C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\HelloWindowsStore\HelloWindowsStore\obj\Debug\priconfig.xml.intermediate
+C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\HelloWindowsStore\HelloWindowsStore\obj\Debug\layout.resfiles.intermediate
+C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\HelloWindowsStore\HelloWindowsStore\obj\Debug\resources.resfiles.intermediate
+C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\HelloWindowsStore\HelloWindowsStore\obj\Debug\pri.resfiles.intermediate
