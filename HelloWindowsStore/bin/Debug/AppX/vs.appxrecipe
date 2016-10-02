@@ -16,17 +16,17 @@
     <AppXManifest Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\HelloWindowsStore\HelloWindowsStore\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-10-02T06:39:19.249</Modified>
+      <Modified>2016-10-02T06:47:06.299</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\HelloWindowsStore\HelloWindowsStore\bin\Debug\HelloWindowsStore.exe">
       <PackagePath>HelloWindowsStore.exe</PackagePath>
-      <Modified>2016-10-02T06:39:19.097</Modified>
+      <Modified>2016-10-02T06:50:21.796</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\HelloWindowsStore\HelloWindowsStore\bin\Debug\HelloWindowsStore.pdb">
       <PackagePath>HelloWindowsStore.pdb</PackagePath>
-      <Modified>2016-10-02T06:39:19.035</Modified>
+      <Modified>2016-10-02T06:50:21.730</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\HelloWindowsStore\HelloWindowsStore\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
@@ -58,7 +58,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\HelloWindowsStore\HelloWindowsStore\bin\Debug\MainPage.xaml">
       <PackagePath>MainPage.xaml</PackagePath>
-      <Modified>2016-10-02T06:39:01.232</Modified>
+      <Modified>2016-10-02T06:50:19.816</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\HelloWindowsStore\HelloWindowsStore\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
