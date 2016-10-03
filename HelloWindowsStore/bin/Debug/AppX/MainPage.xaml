@@ -9,22 +9,11 @@
     >
     
     <Grid Background="#80000080" Name="utkarshContentGrid">
-        <TextBlock Text="8"
-                   HorizontalAlignment="Center"
-                   VerticalAlignment="Center"
-                   FontFamily="Times New Roman"
-                   FontSize="864"
-                    FontWeight="Bold"                   
-                   Foreground="#80FF8000"/>
-        <TextBlock Text="Windows"
-                   HorizontalAlignment="Center"
-                   VerticalAlignment="Center"
-                   FontFamily="Times New Roman"
-                   FontSize="192"
-                   FontStyle="Normal"
-                   Foreground="Blue"          
-                   />
-        <MediaElement Source="http://www.charlespetzold.com/pw6/AudioGreeting.wma"/>
+        <Polyline Name="polyline"
+              Stroke="{StaticResource ApplicationForegroundThemeBrush}"
+              StrokeThickness="3"
+              HorizontalAlignment="Center"
+               VerticalAlignment="Center" />        
     </Grid>
 </Page>
 

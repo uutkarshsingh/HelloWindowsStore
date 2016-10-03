@@ -27,42 +27,14 @@ namespace HelloWindowsStore
         {
             this.InitializeComponent();
 
-            TextBlock tblk = new TextBlock
+            for (int angle = 0; angle < 3600; angle++)
             {
-                Text = "Utkarsh Rathor",
-                FontFamily = new FontFamily("Times New Roman"),
-                FontStyle=  Windows.UI.Text.FontStyle.Italic ,
-                Foreground = new SolidColorBrush(Colors.Yellow),
-                HorizontalAlignment = HorizontalAlignment.Center ,
-                VerticalAlignment = VerticalAlignment.Top,
-                FontSize=50
-            };
-
-            utkarshContentGrid.Children.Add(tblk);  
-         
-            Uri uri = new Uri("http://www.charlespetzold.com/pw6/PetzoldJersey.jpg");
-            BitmapImage bitmapIMage = new Windows.UI.Xaml.Media.Imaging.BitmapImage(uri);
-
-            Image image = new Image();
-            image.Source = bitmapIMage;
-            image.VerticalAlignment = VerticalAlignment.Bottom;
-            image.HorizontalAlignment = HorizontalAlignment.Left;
-
-            Grid newGrid = this.Content as Grid;
-          //  newGrid.Children.Add(image);
-
-            newGrid.Children.Add(
-                new Button(){
-                    Content = "Utkarsh"
-                }              
-                );
-
-            this.Content =
-              new Button(){
-                  Content = "Rathor"                  ,
-                  HorizontalAlignment = HorizontalAlignment.Right,
-                  VerticalAlignment = VerticalAlignment.Bottom
-              };
+                double radians = Math.PI * angle / 180;
+                double radius = angle / 10;
+                double x = 360 + radius * Math.Sin(radians);
+                double y = 360 + radius * Math.Cos(radians);
+                polyline.Points.Add(new Point(x,y));
+            }
         }
 
         /// <summary>

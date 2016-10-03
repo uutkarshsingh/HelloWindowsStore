@@ -16,17 +16,17 @@
     <AppXManifest Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\HelloWindowsStore\HelloWindowsStore\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-10-02T07:07:08.369</Modified>
+      <Modified>2016-10-03T16:13:37.782</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\HelloWindowsStore\HelloWindowsStore\bin\Debug\HelloWindowsStore.exe">
       <PackagePath>HelloWindowsStore.exe</PackagePath>
-      <Modified>2016-10-02T17:49:49.901</Modified>
+      <Modified>2016-10-03T16:30:27.182</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\HelloWindowsStore\HelloWindowsStore\bin\Debug\HelloWindowsStore.pdb">
       <PackagePath>HelloWindowsStore.pdb</PackagePath>
-      <Modified>2016-10-02T17:49:49.794</Modified>
+      <Modified>2016-10-03T16:30:27.081</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\HelloWindowsStore\HelloWindowsStore\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
@@ -54,19 +54,19 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\HelloWindowsStore\HelloWindowsStore\bin\Debug\App.xaml">
       <PackagePath>App.xaml</PackagePath>
-      <Modified>2016-10-02T07:41:32.987</Modified>
+      <Modified>2016-10-02T18:46:56.952</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\HelloWindowsStore\HelloWindowsStore\bin\Debug\Common\StandardStyles.xaml">
       <PackagePath>Common\StandardStyles.xaml</PackagePath>
-      <Modified>2012-06-26T23:19:20.000</Modified>
+      <Modified>2016-10-02T18:46:56.981</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\HelloWindowsStore\HelloWindowsStore\bin\Debug\MainPage.xaml">
       <PackagePath>MainPage.xaml</PackagePath>
-      <Modified>2016-10-02T17:26:27.448</Modified>
+      <Modified>2016-10-03T16:13:33.985</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\uutkarshsingh\Desktop\Windows Phone Apps\HelloWindowsStore\HelloWindowsStore\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-10-02T07:07:08.221</Modified>
+      <Modified>2016-10-03T16:13:37.168</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
